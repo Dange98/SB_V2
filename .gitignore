@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment
+.env
+.venv/
+HughVirtual/
+
+# System files
+.DS_Store
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# User data
+cd data/users.json
+
+# Misc
+*.log
